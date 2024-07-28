@@ -1,0 +1,9 @@
+*.fits
+*.dat
+.DS_Store
+Icon
+*.png
+*.pdf
+*.jpeg
+*.json
+*.tar.gz
