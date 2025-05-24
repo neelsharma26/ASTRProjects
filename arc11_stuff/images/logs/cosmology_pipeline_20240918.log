@@ -1,0 +1,161 @@
+2024-09-18 11:36:24,869 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:36:24,879 - ERROR - trim_images - trim_image - 17: Trim range exceeds image dimensions
+2024-09-18 11:40:00,191 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:40:00,211 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:40:00,211 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_median_subtracted_20240918.fits
+2024-09-18 11:40:55,960 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:40:55,977 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:40:55,977 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_median_subtracted_20240918.fits
+2024-09-18 11:41:09,932 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:41:09,949 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:41:09,949 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_median_subtracted_20240918.fits
+2024-09-18 11:41:22,506 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:41:22,522 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:41:22,522 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_median_subtracted_20240918.fits
+2024-09-18 11:41:34,372 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:41:34,389 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:41:34,389 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_median_subtracted_20240918.fits
+2024-09-18 11:41:47,280 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:41:47,296 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:41:47,296 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_median_subtracted_20240918.fits
+2024-09-18 11:41:59,943 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:41:59,960 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:41:59,960 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_median_subtracted_20240918.fits
+2024-09-18 11:47:43,075 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:43,122 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:43,123 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_var_20240918.fits
+2024-09-18 11:47:43,529 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:43,546 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:43,546 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_var_20240918.fits
+2024-09-18 11:47:43,938 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:43,950 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:43,951 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_var_20240918.fits
+2024-09-18 11:47:44,356 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:44,370 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:44,370 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_var_20240918.fits
+2024-09-18 11:47:44,757 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:44,766 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:44,766 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_var_20240918.fits
+2024-09-18 11:47:45,135 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:45,148 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:45,148 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_var_20240918.fits
+2024-09-18 11:47:45,548 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:45,560 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:45,560 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_var_20240918.fits
+2024-09-18 11:47:56,974 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:56,988 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:56,988 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_var_20240918.fits
+2024-09-18 11:47:57,363 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:57,376 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:57,377 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_var_20240918.fits
+2024-09-18 11:47:57,756 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:57,768 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:57,768 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_var_20240918.fits
+2024-09-18 11:47:58,142 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:58,154 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:58,155 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_var_20240918.fits
+2024-09-18 11:47:58,532 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:58,543 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:58,543 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_var_20240918.fits
+2024-09-18 11:47:58,942 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:58,952 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:58,952 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_var_20240918.fits
+2024-09-18 11:47:59,337 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:47:59,347 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:47:59,347 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_var_20240918.fits
+2024-09-18 11:48:02,048 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:02,061 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:02,061 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_wht_20240918.fits
+2024-09-18 11:48:02,438 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:02,451 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:02,451 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_wht_20240918.fits
+2024-09-18 11:48:02,841 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:02,852 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:02,852 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_wht_20240918.fits
+2024-09-18 11:48:03,253 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:03,263 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:03,263 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_wht_20240918.fits
+2024-09-18 11:48:03,646 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:03,657 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:03,657 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_wht_20240918.fits
+2024-09-18 11:48:04,069 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:04,080 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:04,080 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_wht_20240918.fits
+2024-09-18 11:48:04,498 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:48:04,510 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:48:04,510 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_wht_20240918.fits
+2024-09-18 11:56:45,139 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:45,155 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:45,156 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_wht_20240918.fits
+2024-09-18 11:56:45,535 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:45,547 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:45,547 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_wht_20240918.fits
+2024-09-18 11:56:45,918 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:45,931 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:45,931 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_wht_20240918.fits
+2024-09-18 11:56:46,300 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:46,312 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:46,313 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_wht_20240918.fits
+2024-09-18 11:56:46,688 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:46,700 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:46,700 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_wht_20240918.fits
+2024-09-18 11:56:47,072 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:47,092 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:47,092 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_wht_20240918.fits
+2024-09-18 11:56:47,467 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:47,478 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:47,478 - VERBOSE - utils - generate_filename - 20: Generated the filename f410m_wht_20240918.fits
+2024-09-18 11:56:47,847 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:47,859 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:47,859 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_wht_20240918.fits
+2024-09-18 11:56:56,331 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:56,343 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:56,343 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_wht_20240918.fits
+2024-09-18 11:56:56,716 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:56,727 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:56,727 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_wht_20240918.fits
+2024-09-18 11:56:57,121 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:57,133 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:57,133 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_wht_20240918.fits
+2024-09-18 11:56:57,526 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:57,537 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:57,537 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_wht_20240918.fits
+2024-09-18 11:56:57,916 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:57,929 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:57,929 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_wht_20240918.fits
+2024-09-18 11:56:58,305 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:58,315 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:58,315 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_wht_20240918.fits
+2024-09-18 11:56:58,688 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:58,699 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:58,699 - VERBOSE - utils - generate_filename - 20: Generated the filename f410m_wht_20240918.fits
+2024-09-18 11:56:59,074 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:56:59,087 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:56:59,087 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_wht_20240918.fits
+2024-09-18 11:57:01,415 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:01,427 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:01,427 - VERBOSE - utils - generate_filename - 20: Generated the filename f090w_var_20240918.fits
+2024-09-18 11:57:01,799 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:01,811 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:01,811 - VERBOSE - utils - generate_filename - 20: Generated the filename f115w_var_20240918.fits
+2024-09-18 11:57:02,184 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:02,197 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:02,197 - VERBOSE - utils - generate_filename - 20: Generated the filename f150w_var_20240918.fits
+2024-09-18 11:57:02,565 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:02,577 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:02,578 - VERBOSE - utils - generate_filename - 20: Generated the filename f200w_var_20240918.fits
+2024-09-18 11:57:02,946 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:02,958 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:02,958 - VERBOSE - utils - generate_filename - 20: Generated the filename f277w_var_20240918.fits
+2024-09-18 11:57:03,331 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:03,343 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:03,343 - VERBOSE - utils - generate_filename - 20: Generated the filename f356w_var_20240918.fits
+2024-09-18 11:57:03,710 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:03,722 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:03,723 - VERBOSE - utils - generate_filename - 20: Generated the filename f410m_var_20240918.fits
+2024-09-18 11:57:04,101 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions SCI with header SCI
+2024-09-18 11:57:04,116 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:04,116 - VERBOSE - utils - generate_filename - 20: Generated the filename f444w_var_20240918.fits
+2024-09-18 11:57:37,727 - VERBOSE - trim_images - trim_image - 11: Trimming image at extensions MEDIAN_SUBTRACTED_COMBINED_MODEL with header SCI
+2024-09-18 11:57:37,745 - INFO - trim_images - trim_image - 34: Image successfully trimmed and WCS updated.
+2024-09-18 11:57:37,746 - VERBOSE - utils - generate_filename - 20: Generated the filename f410m_median_subtracted_20240918.fits

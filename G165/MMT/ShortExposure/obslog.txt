@@ -1,0 +1,12 @@
+individual exposure notes:
+sci_img_2024.0113.101719.fits:     1200 | Science  | 270lpm   |    6500 | Guest2023B_1_832 | seeing 1.06, few thin clouds
+sci_img_2024.0113.103812.fits:     1200 | Science  | 270lpm   |    6500 | Guest2023B_1_832 | seeing 1.07
+sci_img_2024.0113.105903.fits:     1200 | Science  | 270lpm   |    6500 | Guest2023B_1_832 | seeing 1.17
+sci_img_2024.0113.110547.fits:      300 | comp     | 270lpm   |    6500 | Guest2023B_1_832 | 
+sci_img_2024.0113.110704.fits:       20 | flat     | 270lpm   |    6500 | Guest2023B_1_832 | 
+sci_img_2024.0113.110820.fits:       20 | flat     | 270lpm   |    6500 | Guest2023B_1_832 | 
+sci_img_2024.0113.110934.fits:       20 | flat     | 270lpm   |    6500 | Guest2023B_1_832 | 
+observing block notes (may include multiple nights):
+Ryan Howie|2024-01-13 03:55:52-07|Block charged overhead of 1050 seconds.
+Ryan Howie|2024-01-13 03:55:52-07|few thin clouds, seeing=1.1". Took 3 exp at 1200 sec, completing the block.
+Ryan Howie|2024-01-13 03:55:56-07|SYSTEM: Block [29706] marked as 100 completed. Estimated Overhead: 1800 Actual Overhead: 1050

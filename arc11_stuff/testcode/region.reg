@@ -1,0 +1,7 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+box(171.8165421,42.4786112,3.000",3.000",0) # text={-1.963308049726077e-05}
+box(171.8148246,42.4786283,3.000",3.000",0) # text={0.0006057246290350536}
+box(171.8148242,42.4776949,3.000",3.000",0) # text={-0.00021277960918426758}
+box(171.8165077,42.4775279,3.000",3.000",0) # text={0.0007596288570184743}
